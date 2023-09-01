@@ -1,0 +1,23 @@
+h1{
+    background-color: aquamarine;
+    color: springgreen;
+    text-align: center;
+}
+
+b{
+    color: pink;
+    background-image: linear-gradient(lightblue, #6495ed, #00bfff);
+}
+
+label{
+    color: peru;
+}
+
+p{
+    color: deeppink;
+    text-decoration: underline;
+    
+}
+body{
+    background-color: palegoldenrod;
+}
